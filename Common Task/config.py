@@ -1,0 +1,1 @@
+BASE = "D:/Redemption/GSOC/resources/"
